@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-Hi I am Miki, I want to become an awesome developer.
+Hi I am Miki, I want to become an awesome developer. I am from Napoles Italy Y oved to Barcelona to teach ad Ironhack.
 
 # :wave: The Basics of GitHub 
 
